@@ -3,6 +3,8 @@
 #include <fcntl.h>          //Used for UART
 #include <termios.h>        //Used for UART
 
+//#define SERIAL_NAME "/dev/ttyAMA0" //old raspberry pi 
+//#define SERIAL_NAME "/dev/serial0" //raspberry pi 3
 #define SERIAL_NAME "/dev/ttyUSB0"
 
 enum
