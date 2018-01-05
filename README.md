@@ -9,3 +9,6 @@ http://www.raspberry-projects.com/pi/programming-in-c/uart-serial-port/using-the
 
 If you have some problem with raspberrypi 3 '/dev/ttyAMA0', use '/dev/serial0'  
 https://raspberrypi.stackexchange.com/questions/45570/how-do-i-make-serial-work-on-the-raspberry-pi3
+
+
+![](https://i.imgur.com/N5wtAgR.png)
